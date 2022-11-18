@@ -5999,11 +5999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harsh\\OneDrive\\Desktop\\Monday_final\\IM15_PMS\\PMS.Microservices\\PatientModuleService\\PatientModuleService.csproj",
+      "projectUniqueName": "C:\\Users\\harsh\\OneDrive\\Desktop\\friday_afternoon\\pms_persona-\\PMS.Microservices\\PatientModuleService\\PatientModuleService.csproj",
       "projectName": "PatientModuleService",
-      "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\Monday_final\\IM15_PMS\\PMS.Microservices\\PatientModuleService\\PatientModuleService.csproj",
+      "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\friday_afternoon\\pms_persona-\\PMS.Microservices\\PatientModuleService\\PatientModuleService.csproj",
       "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\Monday_final\\IM15_PMS\\PMS.Microservices\\PatientModuleService\\obj\\",
+      "outputPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\friday_afternoon\\pms_persona-\\PMS.Microservices\\PatientModuleService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6020,8 +6020,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\harsh\\OneDrive\\Desktop\\Monday_final\\IM15_PMS\\PMS.Microservices\\LoginService\\LoginService.csproj": {
-              "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\Monday_final\\IM15_PMS\\PMS.Microservices\\LoginService\\LoginService.csproj"
+            "C:\\Users\\harsh\\OneDrive\\Desktop\\friday_afternoon\\pms_persona-\\PMS.Microservices\\LoginService\\LoginService.csproj": {
+              "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\friday_afternoon\\pms_persona-\\PMS.Microservices\\LoginService\\LoginService.csproj"
             }
           }
         }
